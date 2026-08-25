@@ -1,0 +1,1 @@
+"""Mini shop domain under test."""
